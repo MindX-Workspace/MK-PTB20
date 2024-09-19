@@ -4,6 +4,6 @@ b = int(input("Enter b: "))
 sum = 0
 
 for i in range (a,b):
-    sum += i
+    print(i)
 
 print(sum)
